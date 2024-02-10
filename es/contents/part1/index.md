@@ -11,6 +11,10 @@ En este módulo introductorio, exploraremos los fundamentos esenciales de las ma
 
 ## Temas Cubiertos
 
+```js
+console.log("hola Mundo")
+```
+
 1. **Introducción a la Lógica Matemática**
    - Proposiciones y conectores lógicos
    - Leyes fundamentales de la lógica
